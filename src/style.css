@@ -1,0 +1,16 @@
+.title{
+    font-size: 2rem;
+    color: red;
+}
+
+div{
+    border: 2px solid red ;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    border: 2px solid red ;
+    height:25%;
+    width: 25%;
+}
